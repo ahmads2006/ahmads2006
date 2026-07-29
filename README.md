@@ -79,11 +79,6 @@ Hi! I'm **Ahmad Siara**, a passionate Backend Developer focused on scalable clou
 
 ---
 
-### 📈 مخطط المساهمات والنشاط | Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmads2006&theme=tokyo-night&hide_border=true" alt="Ahmad's Activity Graph" />
-</p>
 
 
 
