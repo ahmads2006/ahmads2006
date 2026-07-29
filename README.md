@@ -69,8 +69,8 @@ Hi! I'm **Ahmad Siara**, a passionate Backend Developer focused on scalable clou
 ### 📊 إحصائيات GitHub | GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmads2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmads2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ahmads2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmads2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
