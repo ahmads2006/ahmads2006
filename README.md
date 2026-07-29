@@ -79,15 +79,7 @@
 
 ---
 
-### 🚀 المشاريع المميزة | Featured Projects
 
-| اسم المشروع | الوصف | التقنيات المستخدمة | الرابط |
-| :--- | :--- | :--- | :---: |
-| 🛒 **E-Commerce Backend API** | نظام متكامل لإدارة المتاجر الإلكترونية مع معالجة الدفع السريع والـ Caching | Laravel, Redis, MySQL | [معاينة 🔗](https://github.com/ahmads2006) |
-| ☁️ **Cloud Storage Manager** | تطبيق لإدارة وتخزين الملفات السحابية المشفرة مع دعم البحث السريع | Python, MongoDB, REST API | [معاينة 🔗](https://github.com/ahmads2006) |
-| 🤖 **AI-Powered Analytics Dashboard** | لوحة تحكم تفاعلية لتحليل البيانات باستخدام الذكاء الاصطناعي | React, PHP, Python | [معاينة 🔗](https://github.com/ahmads2006) |
-
----
 
 ### 🐍 لعبة المساهمات التفاعلية | Contribution Snake Game
 
@@ -103,10 +95,8 @@
   <a href="https://github.com/ahmads2006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:ahmad@example.com">
+
+  <a href="mailto:hrobahmad9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
