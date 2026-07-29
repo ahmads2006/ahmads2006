@@ -9,7 +9,7 @@
   <a href="https://github.com/ahmads2006">
     <img src="https://img.shields.io/github/stars/ahmads2006?style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" />
   </a>
-  <a href="mailto:contact@example.com">
+  <a href="mailto:hrodahmad9@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
