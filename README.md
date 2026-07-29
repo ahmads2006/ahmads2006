@@ -1,22 +1,22 @@
- <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%90%8B+I'm+Ahmad+Siara;Backend+%26+Software+Developer+%F0%9F%92%BB;PHP+%2F+Laravel+%2F+Python+Specialist+%F0%9F%9A%80;Building+Scalable+Cloud+%26+AI+Apps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</p>
-
   <p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%90%8B+I'm+Ahmad+Siara;Backend+%26+Software+Developer+%F0%9F%92%BB;PHP+%2F+Laravel+%2F+Python+Specialist+%F0%9F%9A%80;Building+Scalable+Cloud+%26+AI+Apps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+ </p>
+
+   <p align="center">
     <a href="https://github.com/ahmads2006">
      <img src="https://img.shields.io/github/followers/ahmads2006?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="GitHub Followers" />
     </a>
-   <a href="https://github.com/ahmads2006">
-     <img src="https://img.shields.io/github/stars/ahmads2006?style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" />
-   </a>
-    <a href="mailto:hrodahmad9@gmail.com">
-     <img src="https://img.shields.io/badge/Contact-Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-   </a>
- </p>
+    <a href="https://github.com/ahmads2006">
+      <img src="https://img.shields.io/github/stars/ahmads2006?style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" />
+       </a>
+       <a href="mailto:hrodahmad9@gmail.com">
+       <img src="https://img.shields.io/badge/Contact-Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+     </a>
+   </p>
 
-  <p align="center">
-   <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/code.gif" width="500" alt="Coding GIF" />
-  </p>
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/code.gif" width="500" alt="Coding GIF" />
+    </p>
 
 ---
 
