@@ -79,6 +79,12 @@
 
 ---
 
+### 📈 مخطط المساهمات والنشاط | Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmads2006&theme=tokyo-night&hide_border=true" alt="Ahmad's Activity Graph" />
+</p>
+
 
 
 ### 🐍 لعبة المساهمات التفاعلية | Contribution Snake Game
