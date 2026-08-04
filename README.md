@@ -25,8 +25,8 @@
 مرحباً! أنا **أحمد سياعرة**، مطور برمجيات متخصص في برمجة الخلفية (Backend Developer) والأنظمة السحابية.  
   Hi! I'm **Ahmad Siara**, a passionate Backend Developer focused on scalable cloud systems & high-performance APIs.
 
-- 🔭 **التركيز | Focus:**  PHP (Laravel), Python, Database Architecture & Cloud Storage.
-- 💡 **الاهتمامات | Interests:**  Distributed Systems, AI Integration & High-Load Backend Architecture.
+- 🔭 **التركيز | Focus:**/  PHP (Laravel), Python, Database Architecture & Cloud Storage.
+- 💡 **الاهتمامات | Interests:**/  Distributed Systems, AI Integration & High-Load Backend Architecture.
 - 🎯 **الهدف | Goal:** بناء تطبيقات برمجية خافية قوية ومستقرة (Clean Code & Robust APIs).
 
 ---
